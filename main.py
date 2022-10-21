@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 import random
-
+#hello
 pygame.init()
 var = 0
 screen_width = 360
